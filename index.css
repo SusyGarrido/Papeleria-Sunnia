@@ -1,0 +1,31 @@
+h1 {
+    text-align: center; 
+    color: rgb(255, 41, 41); 
+    font-family: KG Do You Love Me; 
+    font-size: 50;
+    }
+
+h2 { 
+    color: violet; 
+    font-family: ChaisHand; 
+    text-align: center; 
+    font-size: 60;
+    }
+
+h3 { 
+    color:#FF4FCA; 
+    font-family: Cheri Liney; 
+    font-size: 30;
+    }
+
+img {
+    margin-left:10px;
+    }
+    
+h4 {
+    color:#FF0A3A; 
+    font-size: 25; 
+    font-family:fantasy;
+}
+
+

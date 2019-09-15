@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color: rgb(119, 2, 148);
+    font-family: ChaisHand;
+    font-size: 50
+    }
+
+h2 {
+    text-align: center; 
+    color: rgb(30, 255, 0); 
+    font-family:KG Do You Love Me; 
+    font-size: 70
+    }
+    
+h3 { 
+    font-size: 25; 
+    color: rgb(255, 66, 66); 
+    font-family: fantasy; 
+    text-align: center
+    }
+p {
+    text-align: center;
+    color: rgb(0, 102, 255);
+    font-family: fantasy;
+    font-size: 25;
+    }
