@@ -4,7 +4,6 @@ h1 {
     font-family: KG Do You Love Me; 
     font-size: 50;
     }
-
 h2 { 
     color: violet; 
     font-family: ChaisHand; 
@@ -12,20 +11,37 @@ h2 {
     font-size: 60;
     }
 
+body { background: rgb(255, 255, 255); }
 h3 { 
     color:#FF4FCA; 
     font-family: Cheri Liney; 
     font-size: 30;
     }
 
-img {
-    margin-left:10px;
-    }
-    
+p {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 50; color: red; text-align: center;}
+
 h4 {
     color:#FF0A3A; 
     font-size: 25; 
     font-family:fantasy;
+}
+* { 
+   padding: 0px;
+   margin: 0px;
+}
+#contenedor { width: 400px; margin: 30px auto; overflow: hidden;}
+#contenedor ul { list-style: none; width: 2800px; display: flex;
+animation: slide 20s infinite alternate;}
+@keyframes slide { 0% {margin-left: 0px;}
+20% {margin-left: 0px;}
+
+25% {margin-left: -400px;}
+45% {margin-left: -400px;}
+50% {margin-left:  -800px;}
+70% {margin-left: -800px; }
+75% {margin-left: -1200px;}
+100% {margin-left: -1200px;}
+
 }
 
 
